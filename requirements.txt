@@ -1,5 +1,8 @@
-pandas
+streamlit
+pdf2image
+pillow
+imagehash
 openpyxl
+pandas
 pdfplumber
 pytesseract
-streamlit
